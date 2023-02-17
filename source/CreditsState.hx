@@ -81,6 +81,11 @@ class CreditsState extends MusicBeatState
 		#end
 
 		var pisspoop:Array<Array<String>> = [ //Name - Icon name - Description - Link - BG Color
+			['VS Doxie Devs'],
+			['ImSuperGay', 'R',  'Director', '', 'FFFFFF'],
+			['MyFnf', 'myfnf',  'Programmer + Created Engine', 'https://twitter.com/MyFnf_', '429E9D'],
+			[''],
+			
 			['Echo Engine Team'],
       ['MyFnf',           'myfnf',           'Main Programmer of Echo Engine',                 'https://twitter.com/drippyfnf',   '429E9D'],
       ['MemeHoovy',        'memehoovy',       'Main Bug Fixer of Echo Engine',                  'https://twitter.com/meme_hoovy',    'FFFFFF'],
