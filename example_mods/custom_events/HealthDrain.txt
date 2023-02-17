@@ -1,0 +1,4 @@
+Health drain shit;
+
+Value 1: How much health to drain.
+Value 2: Lowest Health Drain (0.01 recommened).
